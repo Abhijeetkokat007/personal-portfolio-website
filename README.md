@@ -2,4 +2,4 @@
 
 
 **Crafting digital spaces to showcase my journey and passions.** <br/>
-<img src="./home.png"/> <br/>
+<img   src="./portfolio/home.png"/> <br/>
